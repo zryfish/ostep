@@ -1,2 +1,3 @@
 # ostep
-exercises for ostep questions
+
+textbook code and exercises code
